@@ -1,4 +1,5 @@
-tensorflow
-matplotlib
 numpy
-pandas
+pillow
+matplotlib
+tensorflow
+scikit-learn
